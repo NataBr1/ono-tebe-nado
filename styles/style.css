@@ -39,19 +39,20 @@
   width: 140px;
 }
 
-.adress {
+.address {
   max-width: 240px;
   font-size: 18px;
   font-weight: 400;
   line-height: 24.3px;
+  font-style: normal;
 }
 
-.adress a {
+.address a {
   text-decoration: none;
   border-bottom: 1px solid;
 }
 
-.header__adress {
+.header__address {
   justify-self: end;
 }
 
